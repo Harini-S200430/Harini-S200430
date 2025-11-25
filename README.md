@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Harini Saravanan**
 
 📧 **Email:** harinikamail2004@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/harini-saravanan30]  
+🔗 **LinkedIn:** https://www.linkedin.com/in/harini-saravanan30
 🔗 **GitHub:** [https://github.com/Harini-S200430](https://github.com/Harini-S200430)
 
 ---
