@@ -1,74 +1,73 @@
-# 👋 Hi, I'm **Harini Saravanan**
+# 💼 Resume — Harini Saravanan
 
-📧 **Email:** harinikamail2004@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/harini-saravanan30
-🔗 **GitHub:** [https://github.com/Harini-S200430](https://github.com/Harini-S200430)
-
----
-
-## 💼 Summary
-Backend developer with strong **Python & SQL** skills, building **data-driven applications and RESTful APIs**. Familiar with **AI concepts, Data Analysis, and Scalable System Design** — eager to grow in these areas.
+### 📌 Contact
+📧 Email: **harinikamail2004@gmail.com**  
+🔗 LinkedIn:https://www.linkedin.com/in/harini-saravanan30 
+🔗 GitHub: **https://github.com/Harini-S200430**
 
 ---
 
-## 🚀 Projects
-
-### 🛒 Conversational AI Shopkeeper — *Python, Gradio, OpenAI, FAISS, SQLite*
-- Built a conversational AI shopping assistant using **RAG architecture** to fetch product info.
-- Implemented **FAISS vector indexing** → reduced search latency by **~25%**.
-- Prompt + embedding tuning achieved **~85% accuracy** for internal query responses.
-
-### 📄 AI-Powered Resume Analyzer — *Python, Streamlit, OpenAI, Scikit-Learn, Pandas*
-- AI Job Matcher using **OpenAI Embeddings + Keyword Scoring** giving ATS match %.
-- Improved job fit accuracy by **~30%** over keyword-only systems.
-- Built Streamlit UI showing **missing skills & improvement suggestions**.
-
-### 💰 Personal Finance Tracker — *Python, Streamlit, SQLite*
-- Created secure budgeting platform with **login + transaction CRUD**.
-- Real-time income/expense graphs & **PDF reporting**.
-- Filtering by **date/type/category** for insights.
+### 👩‍💻 Professional Summary
+Backend Developer with strong Python and SQL skills, experienced in building data-driven applications and RESTful APIs. Familiar with AI concepts, data analysis, and scalable system design, with a strong interest in backend + AI integration.
 
 ---
 
-## 🔥 Internship
+### 🚀 Projects
 
-**National Institute of Electronics and Information Technology (NIELIT), Chennai — June 2024**  
-*Smart Waste Management System*
-- Processed real-time IoT fill-level data using Python.
-- Designed **dynamic route optimization** to prioritize near-full bins.
-- Improved collection efficiency → fewer trips + reduced fuel usage.
+#### 🛒 Conversational AI Shopkeeper — *Python | Gradio | OpenAI | FAISS | SQLite*
+- Built an AI shopping assistant using RAG to retrieve product details from a private catalog.
+- Implemented FAISS vector indexing for semantic search — reduced product lookup latency by **~25%**.
+- Tuned prompts and embeddings to achieve **~85% answer accuracy** on internal test queries.
 
----
+#### 📄 AI-Powered Resume Analyzer — *Python | Streamlit | OpenAI | Scikit-Learn | Pandas*
+- Developed an AI Resume & Job Matcher using OpenAI embeddings to calculate ATS match scores.
+- Combined keyword + semantic scoring, boosting job-fit accuracy by **~30%**.
+- Built a Streamlit interface that highlights missing skills and improvement suggestions instantly.
 
-## 🧰 Technical Skills
-| Category | Skills |
-|---------|--------|
-| **Programming & Backend** | Python, SQL, Flask, FastAPI |
-| **AI/ML & LLMs** | RAG, FAISS, OpenAI API |
-| **Databases** | MySQL |
-| **Core Fundamentals** | OOP, DSA |
-
----
-
-## 🏅 Certifications
-- Programming in Python – **SWAYAM (CEC)**
-- Artificial Intelligence Foundations – **LinkedIn Learning**
+#### 💰 Personal Finance Tracker — *Python | Streamlit | SQLite*
+- Built a web-based finance tracker with secure login and transaction management.
+- Implemented real-time income, expense & savings visualization with PDF report generation.
+- Enabled smart filtering by date, transaction type and category for insights.
 
 ---
 
-## 🎓 Education
-**B.E – Electronics and Communication Engineering** — *April 2025*  
+### 🏢 Internship
+
+**National Institute of Electronics and Information Technology (NIELIT), Chennai — JUNE 2024**  
+🏗 **Smart Waste Management System**
+- Built a Python pipeline to parse IoT smart bin fill-level data.
+- Added route optimization logic to prioritize bins nearing full capacity.
+- Improved collection efficiency by reducing unnecessary trips and fuel usage.
+
+---
+
+### 🛠 Technical Skills
+- **Programming & Backend:** Python, SQL, Flask, FastAPI  
+- **AI/ML & LLMs:** Retrieval-Augmented Generation (RAG), FAISS, OpenAI API  
+- **Database:** MySQL  
+- **Fundamentals:** OOP, Data Structures & Algorithms (DSA)
+
+---
+
+### 📜 Certifications
+- Programming in Python – SWAYAM (CEC)  
+- Artificial Intelligence Foundations – LinkedIn Learning  
+
+---
+
+### 🎓 Education
+**Bachelor of Engineering (ECE) — APRIL 2025**  
 Government College of Engineering, Bargur  
 CGPA: **8.06 / 10**
 
-**Higher Secondary Education — April 2021**  
-I.V.L. Matric Higher Secondary School  
+**Higher Secondary — APRIL 2021**  
+I.V.L. Matric Hr. Sec. School  
 Percentage: **91.6%**
 
 ---
 
-## 🏆 Hackathon & Presentation
-- Certificate of Appreciation – **TANCAM Hackathon (March 2025)**
-- Presented **“Algorithmic Performance Analysis”** to industry panel, demonstrating clarity in explaining complex engineering concepts.
+### 🏆 Hackathon & Presentation Experience
+- Certificate of Appreciation – **TANCAM Hackathon (March 2025)**  
+- Selected to present **“Algorithmic Performance Analysis”** to industry experts, demonstrating clear and confident technical communication.
 
 ---
